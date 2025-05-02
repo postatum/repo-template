@@ -2,3 +2,4 @@
   "extends": ["@orbitdb/eslint-config-orbitdb"]
 }
 test
+2
